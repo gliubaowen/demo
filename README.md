@@ -1,1 +1,1 @@
-This  Demo project is useful test.
+This Maven project is useful application developer.
