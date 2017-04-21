@@ -14,7 +14,6 @@ public class App
     	System.out.println( "Start Service Completed" );
         System.in.read();
         System.out.println( "Hello World!" );
-        ls;
-        sadlkfhaskg;
+      
     }
 }
